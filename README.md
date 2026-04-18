@@ -60,6 +60,15 @@
 
 ---
 
+## Git のインストール
+
+本教材は GitHub で配布しているため、ダウンロードには Git というツールが必要です。
+
+- Windows: [git-scm.com/download/win](https://git-scm.com/download/win) からインストーラーを取得し、オプションはすべて既定のまま進めてください。インストール後、「Git Bash」を起動して `git --version` が表示されれば完了です。
+- macOS: ターミナル.app で `xcode-select --install` を実行してください。ダイアログが出たら「インストール」を押します。すでに入っている場合は `already installed` と表示されるので、そのまま進んで構いません。`git --version` でバージョンが出れば完了です。
+
+---
+
 ## 教材の取得
 
 ターミナルまたは Anaconda Prompt で以下を実行してください。
