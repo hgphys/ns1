@@ -71,7 +71,7 @@
 
 ## 教材の取得
 
-ターミナルまたは Anaconda Prompt で以下を実行してください。
+ターミナルまたは Anaconda Prompt で以下を実行してください。Git が未インストールの方は [git-install-guide.md](git-install-guide.md) を参照してください。
 
 ```bash
 git clone https://github.com/hgphys/ns1.git
